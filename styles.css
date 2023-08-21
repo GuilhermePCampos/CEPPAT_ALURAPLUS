@@ -14,3 +14,11 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+
+.principal {
+    background-image: url("img/Background.png");
+}
+    
+.container {
+    height: 100vh;
+}
